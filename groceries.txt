@@ -2,3 +2,4 @@ leite
 pão
 ovos
 manteiga
+farinha
