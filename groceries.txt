@@ -1,2 +1,4 @@
-leite\npão\novos
+leite
+pão
+ovos
 manteiga
